@@ -1,0 +1,380 @@
+Incepe aventura Antrenor 1 =antrenor1 contra Antrenor 2 =antrenor2
+        se lupta in Aventura  1:Pikachu contra Bulbasaur
+        se lupta in Aventura  2:Eevee contra Vulpix
+        se lupta  in Aventura  3:Squirtle contra Psyduck
+Aventura 1 : - se lupta antrenor1 / Pikachu contra Neutrel1
+Aventura 2 : - se lupta antrenor1 / Eevee contra Neutrel1
+                Aventura 3 : - se lupta antrenor1 / Squirtle contra Neutrel2
+                        Pokemon 1 :Eevee special_attack  /Pokemon 2 : Neutrel1 attack--> Rezultat
+                         a) Eevee are HP= 59
+                         b) Neutrel1 are HP= 4
+
+                        Pokemon 1 :Eevee special_attack  /Pokemon 2 : Neutrel1 attack--> Rezultat
+                         a) Eevee are HP= 59
+                         b) Neutrel1 are HP= -2
+
+                         Cistiga lupta Antrenor: antrenor1 / Eevee
+                Aventura 2 : -se lupta antrenor2 / Vulpix contra Neutrel2
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Squirtle are HP= 81
+                         b) Neutrel2 are HP= 12
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Squirtle are HP= 82
+                         b) Neutrel2 are HP= 4
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Squirtle are HP= 83
+                         b) Neutrel2 are HP= -4
+
+                         Cistiga lupta Antrenor: antrenor1 / Squirtle
+                Aventura 3 : - se lupta antrenor2 / Psyduck contra Neutrel1
+                        Pokemon 1 :Psyduck attack  /Pokemon 2 : Neutrel1 attack--> Rezultat
+                         a) Psyduck are HP= 55
+                         b) Neutrel1 are HP= 2
+
+                        Pokemon 1 :Psyduck abilitate1  /Pokemon 2 : Neutrel1 attack--> Rezultat
+                         a) Psyduck are HP= 57 Abilitate1 cooldown= 4, Abilitate2 cooldown= 0
+                         b) Neutrel1 are HP= 0
+
+                         Cistiga lupta Antrenor: antrenor2 / Psyduck
+                        Pokemon 1 :Vulpix abilitate1  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Vulpix are HP= 46 Abilitate1 cooldown= 6, Abilitate2 cooldown= 0
+                         b) Neutrel2 are HP= 12
+
+                        Pokemon 1 :Vulpix abilitate2  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Vulpix are HP= 45 Abilitate1 cooldown= 5, Abilitate2 cooldown= 7
+                         b) Neutrel2 are HP= 10
+
+                        Pokemon 1 :Vulpix attack  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Vulpix are HP= 44 Abilitate1 cooldown= 4, Abilitate2 cooldown= 6
+                         b) Neutrel2 are HP= 0
+
+                         Cistiga lupta Antrenor: antrenor2 / Vulpix
+                Aventura 2 : - se lupta antrenor1 / Eevee contra antrenor2 / Vulpix
+                         Cistiga lupta Antrenor: antrenor2 / Vulpix
+                        Pokemon 1 :Eevee abilitate1  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Eevee are HP= 53 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Vulpix are HP= 45
+
+                        Pokemon 1 :Eevee abilitate2  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Eevee are HP= 53 Abilitate1 cooldown= 2, Abilitate2 cooldown= 4
+                         b) Vulpix are HP= 42
+
+                        Pokemon 1 :Eevee special_attack  /Pokemon 2 : Vulpix abilitate1--> Rezultat
+                         a) Eevee are HP= 45 Abilitate1 cooldown= 1, Abilitate2 cooldown= 3
+                         b) Vulpix are HP= 41 Abilitate1 cooldown= 6, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Eevee special_attack  /Pokemon 2 : Vulpix abilitate2--> Rezultat
+                         a) Eevee are HP= 43 Abilitate1 cooldown= 0, Abilitate2 cooldown= 2
+                         b) Vulpix are HP= 41 Abilitate1 cooldown= 5, Abilitate2 cooldown= 7
+
+                        Pokemon 1 :Eevee special_attack  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Eevee are HP= 43 Abilitate1 cooldown= 0, Abilitate2 cooldown= 1
+                         b) Vulpix are HP= 40 Abilitate1 cooldown= 4, Abilitate2 cooldown= 6
+
+                        Pokemon 1 :Eevee abilitate1  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Eevee are HP= 36 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Vulpix are HP= 35 Abilitate1 cooldown= 3, Abilitate2 cooldown= 5
+
+                        Pokemon 1 :Eevee special_attack  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Eevee are HP= 29 Abilitate1 cooldown= 2, Abilitate2 cooldown= 0
+                         b) Vulpix are HP= 34 Abilitate1 cooldown= 2, Abilitate2 cooldown= 4
+
+                        Pokemon 1 :Eevee abilitate2  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Eevee are HP= 29 Abilitate1 cooldown= 1, Abilitate2 cooldown= 4
+                         b) Vulpix are HP= 31 Abilitate1 cooldown= 1, Abilitate2 cooldown= 3
+
+                        Pokemon 1 :Eevee special_attack  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Eevee are HP= 22 Abilitate1 cooldown= 0, Abilitate2 cooldown= 3
+                         b) Vulpix are HP= 30 Abilitate1 cooldown= 0, Abilitate2 cooldown= 2
+
+                        Pokemon 1 :Eevee special_attack  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Eevee are HP= 15 Abilitate1 cooldown= 0, Abilitate2 cooldown= 2
+                         b) Vulpix are HP= 29 Abilitate1 cooldown= 0, Abilitate2 cooldown= 1
+
+                        Pokemon 1 :Eevee abilitate1  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Eevee are HP= 8 Abilitate1 cooldown= 3, Abilitate2 cooldown= 1
+                         b) Vulpix are HP= 24
+
+                        Pokemon 1 :Eevee special_attack  /Pokemon 2 : Vulpix abilitate1--> Rezultat
+                         a) Eevee are HP= 0 Abilitate1 cooldown= 2, Abilitate2 cooldown= 0
+                         b) Vulpix are HP= 23 Abilitate1 cooldown= 6, Abilitate2 cooldown= 0
+
+Aventura 2  s-a terminat cu  rezultatul :antrenor1 / Vulpix
+                Aventura 3 : - se lupta antrenor1 / Squirtle contra antrenor2 / Psyduck
+                        Pokemon 1 :Squirtle abilitate1  /Pokemon 2 : Psyduck abilitate1--> Rezultat
+                         a) Squirtle are HP= 82 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Psyduck are HP= 54 Abilitate1 cooldown= 4, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 79 Abilitate1 cooldown= 2, Abilitate2 cooldown= 0
+                         b) Psyduck are HP= 52 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Squirtle abilitate2  /Pokemon 2 : Psyduck abilitate2--> Rezultat
+                         a) Squirtle are HP= 77 Abilitate1 cooldown= 1, Abilitate2 cooldown= 2
+                         b) Psyduck are HP= 50 Abilitate1 cooldown= 2, Abilitate2 cooldown= 5
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 77 Abilitate1 cooldown= 0, Abilitate2 cooldown= 1
+                         b) Psyduck are HP= 50 Abilitate1 cooldown= 1, Abilitate2 cooldown= 4
+
+                        Pokemon 1 :Squirtle abilitate1  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 74 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Psyduck are HP= 46 Abilitate1 cooldown= 0, Abilitate2 cooldown= 3
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 71 Abilitate1 cooldown= 2, Abilitate2 cooldown= 0
+                         b) Psyduck are HP= 44 Abilitate1 cooldown= 0, Abilitate2 cooldown= 2
+
+                        Pokemon 1 :Squirtle abilitate2  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 71 Abilitate1 cooldown= 1, Abilitate2 cooldown= 2
+                         b) Psyduck are HP= 42 Abilitate1 cooldown= 0, Abilitate2 cooldown= 1
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 68 Abilitate1 cooldown= 0, Abilitate2 cooldown= 1
+                         b) Psyduck are HP= 40
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 65
+                         b) Psyduck are HP= 38
+
+                        Pokemon 1 :Squirtle abilitate1  /Pokemon 2 : Psyduck abilitate1--> Rezultat
+                         a) Squirtle are HP= 63 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Psyduck are HP= 34 Abilitate1 cooldown= 4, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Squirtle abilitate2  /Pokemon 2 : Psyduck abilitate2--> Rezultat
+                         a) Squirtle are HP= 61 Abilitate1 cooldown= 2, Abilitate2 cooldown= 2
+                         b) Psyduck are HP= 32 Abilitate1 cooldown= 3, Abilitate2 cooldown= 5
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 61 Abilitate1 cooldown= 1, Abilitate2 cooldown= 1
+                         b) Psyduck are HP= 32 Abilitate1 cooldown= 2, Abilitate2 cooldown= 4
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 58
+                         b) Psyduck are HP= 30 Abilitate1 cooldown= 1, Abilitate2 cooldown= 3
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 55
+                         b) Psyduck are HP= 28 Abilitate1 cooldown= 0, Abilitate2 cooldown= 2
+
+                        Pokemon 1 :Squirtle abilitate1  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 52 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Psyduck are HP= 24 Abilitate1 cooldown= 0, Abilitate2 cooldown= 1
+
+                        Pokemon 1 :Squirtle abilitate2  /Pokemon 2 : Psyduck abilitate1--> Rezultat
+                         a) Squirtle are HP= 50 Abilitate1 cooldown= 2, Abilitate2 cooldown= 2
+                         b) Psyduck are HP= 22 Abilitate1 cooldown= 4, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck abilitate2--> Rezultat
+                         a) Squirtle are HP= 48 Abilitate1 cooldown= 1, Abilitate2 cooldown= 1
+                         b) Psyduck are HP= 20 Abilitate1 cooldown= 3, Abilitate2 cooldown= 5
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 48
+                         b) Psyduck are HP= 20 Abilitate1 cooldown= 2, Abilitate2 cooldown= 4
+
+                        Pokemon 1 :Squirtle abilitate1  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 45 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Psyduck are HP= 16 Abilitate1 cooldown= 1, Abilitate2 cooldown= 3
+
+                        Pokemon 1 :Squirtle abilitate2  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 45 Abilitate1 cooldown= 2, Abilitate2 cooldown= 2
+                         b) Psyduck are HP= 14 Abilitate1 cooldown= 0, Abilitate2 cooldown= 2
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck abilitate1--> Rezultat
+                         a) Squirtle are HP= 43 Abilitate1 cooldown= 1, Abilitate2 cooldown= 1
+                         b) Psyduck are HP= 12 Abilitate1 cooldown= 4, Abilitate2 cooldown= 1
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 40
+                         b) Psyduck are HP= 10 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Squirtle abilitate1  /Pokemon 2 : Psyduck abilitate2--> Rezultat
+                         a) Squirtle are HP= 38 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Psyduck are HP= 6 Abilitate1 cooldown= 2, Abilitate2 cooldown= 5
+
+                        Pokemon 1 :Squirtle abilitate2  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 38 Abilitate1 cooldown= 2, Abilitate2 cooldown= 2
+                         b) Psyduck are HP= 4 Abilitate1 cooldown= 1, Abilitate2 cooldown= 4
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 35 Abilitate1 cooldown= 1, Abilitate2 cooldown= 1
+                         b) Psyduck are HP= 4 Abilitate1 cooldown= 0, Abilitate2 cooldown= 3
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 32
+                         b) Psyduck are HP= 2 Abilitate1 cooldown= 0, Abilitate2 cooldown= 2
+
+                        Pokemon 1 :Squirtle abilitate1  /Pokemon 2 : Psyduck attack--> Rezultat
+                         a) Squirtle are HP= 29 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Psyduck are HP= -2 Abilitate1 cooldown= 0, Abilitate2 cooldown= 1
+
+                         Cistiga lupta Antrenor: antrenor1 / Squirtle
+Aventura 3  s-a terminat cu  rezultatul :antrenor1 / Squirtle
+                        Pokemon 1 :Pikachu abilitate1  /Pokemon 2 : Neutrel1 attack--> Rezultat
+                         a) Pikachu are HP= 37 Abilitate1 cooldown= 4, Abilitate2 cooldown= 0
+                         b) Neutrel1 are HP= 4
+
+                        Pokemon 1 :Pikachu abilitate2  /Pokemon 2 : Neutrel1 attack--> Rezultat
+                         a) Pikachu are HP= 37 Abilitate1 cooldown= 3, Abilitate2 cooldown= 5
+                         b) Neutrel1 are HP= 0
+
+                         Cistiga lupta Antrenor: antrenor1 / Pikachu
+                Aventura 1 : -se lupta antrenor2 / Bulbasaur contra Neutrel2
+                        Pokemon 1 :Bulbasaur abilitate1  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Bulbasaur are HP= 42 Abilitate1 cooldown= 4, Abilitate2 cooldown= 0
+                         b) Neutrel2 are HP= 14
+
+                        Pokemon 1 :Bulbasaur special_attack  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Bulbasaur are HP= 42 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Neutrel2 are HP= 10
+
+                        Pokemon 1 :Bulbasaur abilitate2  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Bulbasaur are HP= 42 Abilitate1 cooldown= 2, Abilitate2 cooldown= 3
+                         b) Neutrel2 are HP= 5
+
+                        Pokemon 1 :Bulbasaur special_attack  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Bulbasaur are HP= 42 Abilitate1 cooldown= 1, Abilitate2 cooldown= 2
+                         b) Neutrel2 are HP= 1
+
+                        Pokemon 1 :Bulbasaur special_attack  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Bulbasaur are HP= 42 Abilitate1 cooldown= 0, Abilitate2 cooldown= 1
+                         b) Neutrel2 are HP= -3
+
+                         Cistiga lupta Antrenor: antrenor2 / Bulbasaur
+                Aventura 1 : - se lupta antrenor1 / Pikachu contra antrenor2 / Bulbasaur
+                        Pokemon 1 :Pikachu special_attack  /Pokemon 2 : Bulbasaur special_attack--> Rezultat
+                         a) Pikachu are HP= 37
+                         b) Bulbasaur are HP= 39
+
+                        Pokemon 1 :Pikachu special_attack  /Pokemon 2 : Bulbasaur abilitate1--> Rezultat
+                         a) Pikachu are HP= 37
+                         b) Bulbasaur are HP= 35 Abilitate1 cooldown= 4, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Pikachu special_attack  /Pokemon 2 : Bulbasaur abilitate2--> Rezultat
+                         a) Pikachu are HP= 32
+                         b) Bulbasaur are HP= 31 Abilitate1 cooldown= 3, Abilitate2 cooldown= 3
+
+                        Pokemon 1 :Pikachu special_attack  /Pokemon 2 : Bulbasaur special_attack--> Rezultat
+                         a) Pikachu are HP= 31
+                         b) Bulbasaur are HP= 27 Abilitate1 cooldown= 2, Abilitate2 cooldown= 2
+
+                        Pokemon 1 :Pikachu special_attack  /Pokemon 2 : Bulbasaur special_attack--> Rezultat
+                         a) Pikachu are HP= 30
+                         b) Bulbasaur are HP= 23 Abilitate1 cooldown= 1, Abilitate2 cooldown= 1
+
+                        Pokemon 1 :Pikachu abilitate1  /Pokemon 2 : Bulbasaur special_attack--> Rezultat
+                         a) Pikachu are HP= 29 Abilitate1 cooldown= 4, Abilitate2 cooldown= 0
+                         b) Bulbasaur are HP= 17
+
+                        Pokemon 1 :Pikachu special_attack  /Pokemon 2 : Bulbasaur special_attack--> Rezultat
+                         a) Pikachu are HP= 28 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Bulbasaur are HP= 13
+
+                        Pokemon 1 :Pikachu special_attack  /Pokemon 2 : Bulbasaur abilitate1--> Rezultat
+                         a) Pikachu are HP= 22 Abilitate1 cooldown= 2, Abilitate2 cooldown= 0
+                         b) Bulbasaur are HP= 9 Abilitate1 cooldown= 4, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Pikachu abilitate2  /Pokemon 2 : Bulbasaur special_attack--> Rezultat
+                         a) Pikachu are HP= 22 Abilitate1 cooldown= 1, Abilitate2 cooldown= 5
+                         b) Bulbasaur are HP= 5 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Pikachu special_attack  /Pokemon 2 : Bulbasaur special_attack--> Rezultat
+                         a) Pikachu are HP= 21 Abilitate1 cooldown= 0, Abilitate2 cooldown= 4
+                         b) Bulbasaur are HP= 1 Abilitate1 cooldown= 2, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Pikachu special_attack  /Pokemon 2 : Bulbasaur special_attack--> Rezultat
+                         a) Pikachu are HP= 20 Abilitate1 cooldown= 0, Abilitate2 cooldown= 3
+                         b) Bulbasaur are HP= -3 Abilitate1 cooldown= 1, Abilitate2 cooldown= 0
+
+                         Cistiga lupta Antrenor: antrenor1 / Pikachu
+Aventura 1  s-a terminat cu  rezultatul :antrenor1 / Pikachu
+Lista Trainer1 :Squirtle61 Total=95
+Lista Trainer1 :Pikachu36 Total=65
+Lista Trainer2 :Vulpix37 Total=73
+Incepe Sfarsitul Aventurii :antrenor1 / Squirtle contra antrenor2 / Vulpix
+                Aventura FINALA : - se lupta antrenor1 / Squirtle contra Neutrel2
+                        Pokemon 1 :Squirtle abilitate1  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Squirtle are HP= 68 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Neutrel2 are HP= 16
+
+                        Pokemon 1 :Squirtle abilitate2  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Squirtle are HP= 68 Abilitate1 cooldown= 2, Abilitate2 cooldown= 2
+                         b) Neutrel2 are HP= 14
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Squirtle are HP= 75 Abilitate1 cooldown= 1, Abilitate2 cooldown= 1
+                         b) Neutrel2 are HP= 3
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Neutrel2 attack--> Rezultat
+                         a) Squirtle are HP= 82
+                         b) Neutrel2 are HP= -8
+
+                         Cistiga lupta Antrenor: antrenor1 / Squirtle
+                Aventura FINALA : - se lupta antrenor2 / Vulpix contra Neutrel1
+                        Pokemon 1 :Vulpix abilitate1  /Pokemon 2 : Neutrel1 attack--> Rezultat
+                         a) Vulpix are HP= 37 Abilitate1 cooldown= 6, Abilitate2 cooldown= 0
+                         b) Neutrel1 are HP= 2
+
+                        Pokemon 1 :Vulpix abilitate2  /Pokemon 2 : Neutrel1 attack--> Rezultat
+                         a) Vulpix are HP= 43 Abilitate1 cooldown= 5, Abilitate2 cooldown= 7
+                         b) Neutrel1 are HP= 0
+
+                         Cistiga lupta Antrenor: antrenor2 / Vulpix
+                Aventura FINALA : - se lupta antrenor1 / Squirtle contra antrenor2 / Vulpix
+                        Pokemon 1 :Squirtle abilitate1  /Pokemon 2 : Vulpix abilitate1--> Rezultat
+                         a) Squirtle are HP= 75 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Vulpix are HP= 44 Abilitate1 cooldown= 6, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Squirtle abilitate2  /Pokemon 2 : Vulpix abilitate2--> Rezultat
+                         a) Squirtle are HP= 73 Abilitate1 cooldown= 2, Abilitate2 cooldown= 2
+                         b) Vulpix are HP= 42 Abilitate1 cooldown= 5, Abilitate2 cooldown= 7
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Squirtle are HP= 73 Abilitate1 cooldown= 1, Abilitate2 cooldown= 1
+                         b) Vulpix are HP= 42 Abilitate1 cooldown= 4, Abilitate2 cooldown= 6
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Squirtle are HP= 73
+                         b) Vulpix are HP= 36 Abilitate1 cooldown= 3, Abilitate2 cooldown= 5
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Squirtle are HP= 71
+                         b) Vulpix are HP= 30 Abilitate1 cooldown= 2, Abilitate2 cooldown= 4
+
+                        Pokemon 1 :Squirtle abilitate1  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Squirtle are HP= 69 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Vulpix are HP= 26 Abilitate1 cooldown= 1, Abilitate2 cooldown= 3
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Squirtle are HP= 67 Abilitate1 cooldown= 2, Abilitate2 cooldown= 0
+                         b) Vulpix are HP= 20 Abilitate1 cooldown= 0, Abilitate2 cooldown= 2
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Squirtle are HP= 65 Abilitate1 cooldown= 1, Abilitate2 cooldown= 0
+                         b) Vulpix are HP= 14 Abilitate1 cooldown= 0, Abilitate2 cooldown= 1
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Vulpix abilitate1--> Rezultat
+                         a) Squirtle are HP= 57
+                         b) Vulpix are HP= 8 Abilitate1 cooldown= 6, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Squirtle are HP= 55
+                         b) Vulpix are HP= 8 Abilitate1 cooldown= 5, Abilitate2 cooldown= 0
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Vulpix abilitate2--> Rezultat
+                         a) Squirtle are HP= 53
+                         b) Vulpix are HP= 2 Abilitate1 cooldown= 4, Abilitate2 cooldown= 7
+
+                        Pokemon 1 :Squirtle abilitate1  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Squirtle are HP= 51 Abilitate1 cooldown= 3, Abilitate2 cooldown= 0
+                         b) Vulpix are HP= 2 Abilitate1 cooldown= 3, Abilitate2 cooldown= 6
+
+                        Pokemon 1 :Squirtle special_attack  /Pokemon 2 : Vulpix attack--> Rezultat
+                         a) Squirtle are HP= 49 Abilitate1 cooldown= 2, Abilitate2 cooldown= 0
+                         b) Vulpix are HP= -4 Abilitate1 cooldown= 2, Abilitate2 cooldown= 5
+
+                         Cistiga lupta Antrenor: antrenor1 / Squirtle
+Aventura FINALA s-a terminat :invingator >>>>>>>   antrenor1 / Squirtle

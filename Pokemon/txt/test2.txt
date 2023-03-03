@@ -1,0 +1,2 @@
+antrenor1 35 Charmander 1 1 0 0 1 1 0 Snorlax 1 1 0 0 0 1 0 Meowth 0 0 0 1 1 0 1
+antrenor2 21 Jgglypuff 1 1 0 0 0 1 0 Pikachu 1 0 0 1 1 0 1 Vulpix 0 0 1 1 1 0 0

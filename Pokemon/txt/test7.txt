@@ -1,0 +1,2 @@
+antrenor1 20 Meowth 1 1 0 0 0 1 1 Jigglypuff 1 0 1 1 1 1 0 Bulbasaur 1 0 1 1 0 0 1
+antrenor2 24 Snorlax 1 0 1 0 1 1 1 Eevee 1 1 0 1 1 1 0 Squirtle 1 0 1 1 0 1 1

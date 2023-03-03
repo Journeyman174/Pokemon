@@ -1,0 +1,2 @@
+antrenor1 20 Snorlax 1 1 1 0 0 1 1 Jigglypuff 1 0 1 1 1 0 0 Charmander 1 0 0 1 0 1 1
+antrenor2 24 Pikachu 1 0 1 1 0 0 1 Bulbasaur 1 1 0 1 0 1 0 Squirtle 1 0 1 1 1 1 0

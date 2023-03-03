@@ -1,0 +1,2 @@
+antrenor1 27 Charmander 1 1 0 1 1 1 1 Pikachu 1 0 1 1 1 1 0 Squirtle 1 0 0 1 1 0 0
+antrenor2 23 Psyduck 1 0 1 1 1 0 1 Eevee 1 1 0 1 0 1 1 Bulbasaur 1 0 1 1 1 0 1

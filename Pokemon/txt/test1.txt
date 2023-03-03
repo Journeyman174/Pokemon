@@ -1,0 +1,2 @@
+antrenor1 25 Pikachu 1 0 0 0 0 1 0 Eevee 0 1 0 0 1 0 0 Squirtle 0 1 0 1 1 0 0
+antrenor2 31 Bulbasaur 0 0 1 0 0 1 0 Vulpix 0 0 0 0 1 1 1 Psyduck 1 0 1 0 1 0 1
